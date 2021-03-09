@@ -1,0 +1,5 @@
+package com.appstore.dao;
+
+public interface BookDao {
+
+}

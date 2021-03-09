@@ -1,0 +1,5 @@
+package com.appstore.exception;
+
+public class DataAccessException {
+
+}
